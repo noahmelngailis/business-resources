@@ -1,0 +1,13 @@
+*.csv
+__pycache__/
+.ipynb_checkpoints
+*.xlsx
+*.icloud
+TxDot_Roadways/
+credentials.json
+token.pickle
+token_write.pickle
+*.zip
+line-items/
+*.png
+*.xls
